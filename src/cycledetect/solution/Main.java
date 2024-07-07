@@ -1,4 +1,4 @@
-package solution;
+package cycledetect.solution;
 import java.util.*;
 
 class Pair{

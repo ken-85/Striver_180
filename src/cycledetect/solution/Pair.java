@@ -1,4 +1,4 @@
-package solution;
+package cycledetect.solution;
 public class Pair {
     int node;
     int parent;
